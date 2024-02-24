@@ -1,0 +1,15 @@
+h1
+{
+    color: blue;
+    background: linear-gradient(45deg,grey,lightcoral,);
+}
+img
+{
+    transition: all 1s linear 0s;
+}
+img:hover
+{
+    filter: grayscale(100%);
+    height: 300px;
+    width: 300px;
+}
